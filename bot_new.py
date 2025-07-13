@@ -175,4 +175,4 @@ async def lyrics(ctx, *, title: str):
         await ctx.send(f"Gak Ada Liriknya Bangsat! {str(e)}")
 
 # Run the bot
-bot.run("MTMzMzE1NDc0NzYxOTc0MTc4OA.Gp4crw.mYiX5zMunvkWuJNUKTtZL8li-pa4H6m39Kd2go")
+bot.run("")
